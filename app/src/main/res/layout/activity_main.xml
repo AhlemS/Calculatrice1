@@ -17,6 +17,7 @@
         android:layout_marginBottom="621dp"
         android:ems="10"
         android:inputType="number"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="35dp" />
 
@@ -32,6 +33,7 @@
         android:ems="10"
         android:inputType="number"
         app:layout_constraintTop_toTopOf="@+id/n1"
+        tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck"
         tools:layout_editor_absoluteX="100dp" />
 
 
